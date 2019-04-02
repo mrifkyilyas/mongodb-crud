@@ -7,3 +7,9 @@
 | /      | POST          |    create a   |
 | /:id  | DELETE        |    delete a  |
 | /:id  | PUT           |    update a  with new info  |
+
+### USAGE
+```
+$npm init
+$npm mongodb express
+$ npm run dev 
